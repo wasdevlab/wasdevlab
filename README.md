@@ -17,8 +17,7 @@ Hi 👋 My name is Wasim Suleman
 Full-Stack Developer | Machine Learning Expert | Freelancer at forefront 🧑‍💻 #TopRatedFreelancer #AIExpert #SoftwareDeveloper #TalkingTech
 
 * 🌍  I'm based in Remote
-* 🖥️  See my portfolio at [Neltar](http://neltar.digtal)
-* ✉️  You can contact me at [wasimsuleman.ws@gmail.com](mailto:wasimsuleman.ws@gmail.com)
+* 🖥️  See my portfolio at [Neltar](http://neltar.com)
 
 <h3><b><samp>Skills and Languages</samp></b></h3>
 <span>
