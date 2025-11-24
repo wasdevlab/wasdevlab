@@ -2,14 +2,6 @@
     <img src="./header_.png" />
 </p>
 
-<p align="center">
-    <a href="https://discord.gg/"><img alt="Discord" title="Discord"
-            src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://www.youtube.com/c/"><img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-7289DA?style=for-the-badge&logo=Instagram&color=f2f2f2">
-</a>
-    <a href="https://github.com/wasdevlab"><img alt="Static Badge" src="https://img.shields.io/badge/-Github-7289DA?style=for-the-badge&logo=github&color=4a4a4a">
-</a>
-</p>
 
 Hi 👋 My name is Wasim Suleman
 ==============================
